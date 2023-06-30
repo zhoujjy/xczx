@@ -1,4 +1,4 @@
-package com.zj.xczx;
+package com.zj.xczx.content;
 
 import com.spring4all.swagger.EnableSwagger2Doc;
 import org.springframework.boot.SpringApplication;
